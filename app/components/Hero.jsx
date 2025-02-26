@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="py-16 flex flex-col items-center">
       <div className="profile-image-container mb-8">
         <Image
-          src="/images/profile.jpeg"
+          src="https://cdiimmwtmgxcbcjzajwz.supabase.co/storage/v1/object/public/findmycollege//Profile.jpeg"
           alt="Jatin Chouhan"
           width={200}
           height={200}
